@@ -1,0 +1,4 @@
+initMenu();
+initAccordion();
+initSlider();
+initForms();
